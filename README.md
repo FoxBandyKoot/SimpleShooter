@@ -1,2 +1,2 @@
-# ToonTank
-Tutotial from Udemy : Tank game
+# SimpleShooter
+Tutotial from Udemy : SimpleShooter

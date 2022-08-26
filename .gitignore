@@ -6,6 +6,9 @@
 *.lo
 *.o
 *.obj
+.vscode
+Content/StarterContent
+Content/AssetPacks
 
 # Precompiled Headers
 *.gch
